@@ -1,0 +1,63 @@
+body {
+  /*Background color for entire page*/
+  background-color: white;
+}
+.firstdiv {
+  /*Styling the top "header" for my page*/
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: Black;
+  border-width: 2px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+ .sum{ font-size:1.4em;
+
+}
+
+.Seconddiv{
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+.thriddiv{
+    background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+.fourthdiv{
+  text-align:center;
+}
+
+table, th, td {
+  border: 1px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  width: 25%;
+}
+.Novice{
+  text-align: center;
+  color:Green;
+}
+.Competent{
+  text-align: center;
+  color:rgb(228, 228, 5);
+}
+.Expert{
+  text-align: center;
+  color:rgb(223, 36, 36);
+}
+td{
+  text-align:left;
+}
